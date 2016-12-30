@@ -1,0 +1,23 @@
+{
+  "name": "restaurants-and-cinemas",
+  "version": "1.0.0",
+  "description": "Guidebook for restaurants and cinemas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Pavel Prorovsky",
+  "license": "MIT",
+  "dependencies": {
+    "es6-module-loader": "^0.17.11",
+    "systemjs": "^0.19.37",
+    "traceur": "0.0.108",
+
+    "bootstrap": "3.3.7",
+    "jquery": "3.1.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.0"
+  }
+}
